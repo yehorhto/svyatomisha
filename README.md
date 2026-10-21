@@ -2,5 +2,5 @@
 
 ## TLauncher встановлення
 
-**[Перейти до інструкції TLauncher](tlauncher-formatted.md)**
+**[Перейти до інструкції TLauncher](tlauncher.md)**
 
